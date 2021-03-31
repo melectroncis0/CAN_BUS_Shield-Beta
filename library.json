@@ -1,0 +1,13 @@
+{
+  "name": "CAN_BUS_Shield Beta",
+  "keywords": "can, bus, mcp2515, MCP-2515",
+  "description": "Arduino library to control All CAN-BUS with 4, 8, 10, 16, 20 MHz Crystals.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Seeed-Studio/CAN_BUS_Shield.git"
+  },
+  "version": "1.30",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
